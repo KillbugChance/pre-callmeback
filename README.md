@@ -4,12 +4,13 @@ The project **CallMeBack** is a LineBot-based software system used to ease the p
 _Copyright by Astro Corp._
 
 ## Announcements
-- Official Website: https://www.callmeback.com.tw
+- Official website: https://www.callmeback.com.tw
 - Line: "叫叫我" @callmeback https://line.me/R/ti/p/@787vjeld
 - Line customer service: "叫叫我(官方客服)" https://line.me/R/ti/p/@502njbyc
 
-## Coperation Partner
-- MainPi 免排: https://www.mainpi.com
+## Third Party
+- MainPi 免排: 為叫號機系統商, 公司為奇城科技.  https://www.mainpi.com
+- 盈德科技
 
 ## Software Platform
 1. Most programs are coded in Javascript (JS) and packaged in form of docker containers.
